@@ -1,0 +1,22 @@
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\lec\documents\visual studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+F:\cls project\Visual Prg\Visual Studio 2015\LAB4\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
